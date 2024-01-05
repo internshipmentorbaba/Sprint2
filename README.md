@@ -7,3 +7,6 @@ sudo apt install npm
 npm install express   (You can install nodejs framework Express.js using npm)
 
 npm install -g pm2   (you are installing pm2 globally, making it accessible from any directory in your terminal)
+
+npm install --save-dev webpack webpack-cli mocha ( istall dependencies webpack for code build and mocha for testing)
+
